@@ -53,6 +53,10 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrcole&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### \music What I'm Listening To:
+![Music History](https://spotify-recently-played-readme.vercel.app/api?user=wo8o30evd719ujblk8phhcwqi)
+
+
 
 
 </div>
