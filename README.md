@@ -50,7 +50,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 #
 ### 🔥 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrcole)](https://github.com/nickrcole/nickrcole)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickrcole&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### \music What I'm Listening To:
