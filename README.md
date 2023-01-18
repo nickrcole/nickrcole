@@ -35,14 +35,14 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 </div>
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" />
 <img align="left" alt="SystemVerilog" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png" />
- <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" /> 
 
  </div>
 <br />
