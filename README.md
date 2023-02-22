@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/nicholasrobertcole/)">
+  <a href="https://www.linkedin.com/in/nicholasrobertcole/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/nicholascole_/">
@@ -15,7 +15,7 @@
   -->
 </div>
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=Shivpvtel&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=nickrcole&style=flat-square&color=blue" alt=""/>
   <h1>
 Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -25,11 +25,11 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 ### 👨‍💻 About me:
 - ✈️: Born in State College, Pennsylvania
- - 👨‍🎓: 3rd year Student at The Pensylvania State University 
- - 🔭: Majoring in Computer Science with Minors in Math and Cybersecurity
+- 👨‍🎓: 3rd year Student at The Pensylvania State University 
+- 🔭: Majoring in Computer Science with minors in Math and Cybersecurity
 - 🎓: Currently focused on mobile development and backend web development
-- ⚡: In my free time, I spend my time running 🏃, skateboarding 🛹 and singing 🎵
-- 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasrobertcole/)
+- ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵
+- 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/nicholasrobertcole/))
 
 
 #
