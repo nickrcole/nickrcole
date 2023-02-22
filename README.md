@@ -25,14 +25,14 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 ### 👨‍💻 About me:
 - ✈️: Born in State College, Pennsylvania
-- 👨‍🎓: 3rd year Student at The Pensylvania State University 
+- 👨‍🎓: 3rd year student at Penn State 
 - 🔭: Majoring in Computer Science with minors in Math and Cybersecurity
 - 🎓: Currently focused on mobile development and backend web development
 - ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵 Watch me perform: <a href="https://www.youtube.com/@Pennharmonics">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch Me Perform" width="30px"/>
   </a>
-- 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/nicholasrobertcole/))
-
+- 📫: How to reach me: shoot me an email <a href="mailto:nickrcole2@gmail.com">
+    <img src="(https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png)" alt="Shoot me an email" width="30px"/>
 
 #
 ### :hammer_and_wrench: Languages and Tools :
