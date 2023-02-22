@@ -29,9 +29,11 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 - 🔭: Majoring in Computer Science with minors in Math and Cybersecurity
 - 🎓: Currently focused on mobile development and backend web development
 - ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵 Watch me perform: <a href="https://www.youtube.com/@Pennharmonics">
-    <img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b" alt="Watch Me Perform" width="30px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch Me Perform" width="30px"/>
   </a>
-- 📫: How to reach me: shoot me an email 
+- 📫: How to reach me: shoot me an email: <a href="mailto:nickrcole2@gmail.com">
+    <img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b" alt="Shoot me an email" width="30px"/> 
+  </a>
 
 #
 ### :hammer_and_wrench: Languages and Tools :
