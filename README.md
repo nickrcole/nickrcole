@@ -28,7 +28,9 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 - 👨‍🎓: 3rd year Student at The Pensylvania State University 
 - 🔭: Majoring in Computer Science with minors in Math and Cybersecurity
 - 🎓: Currently focused on mobile development and backend web development
-- ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵
+- ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵 Watch me perform: <a href="https://www.youtube.com/@Pennharmonics">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch Me Perform"/>
+  </a>
 - 📫: How to reach me: Add me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/nicholasrobertcole/))
 
 
