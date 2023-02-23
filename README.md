@@ -57,7 +57,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 ![Music History](https://spotify-recently-played-readme.vercel.app/api?user=wo8o30evd719ujblk8phhcwqi)
 
 ### I'm going to Mars!
-<img width="980" height="410" src="(https://i.imgur.com/zDFsE0A.png)" ></img>
+<img src="(https://i.imgur.com/zDFsE0A.png)" width="980" height="410"></img>
 
 
 
