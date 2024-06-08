@@ -20,8 +20,8 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 ### 👨‍💻 About me:
 - ✈️: Born in State College, Pennsylvania
-- 👨‍🎓: 3rd year student at Penn State 
-- 🔭: Majoring in Computer Science with minors in Math and Cybersecurity
+- 👨‍🎓: Developer, leader and student entrepreneur 
+- 🔭: Graduated from PSU with a Computer Science Degree
 - 🎓: Currently focused on mobile development and backend web development
 - ⚡: In my free time, I like to run 🏃, skateboard 🛹 and sing 🎵
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch Me Perform" width="30px"/>
